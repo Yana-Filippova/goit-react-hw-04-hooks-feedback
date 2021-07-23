@@ -1,0 +1,20 @@
+.input {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.feedback {
+  margin-bottom: 10px;
+}
+
+.feedback,
+.total {
+  color: #fff;
+  font-weight: bold;
+  font-family: Helvetica;
+  font-size: 16;
+}
+
+.list {
+  text-align: left;
+}

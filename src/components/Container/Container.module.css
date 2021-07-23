@@ -1,0 +1,15 @@
+.container {
+  max-width: 615px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 20px 0px 20px;
+  background-color: #ffa726;
+  text-align: center;
+  border-radius: 8px;
+  border: 8px solid #fff;
+  box-shadow: 0 2px 0 #ccc, 0 4px 0 #c9c9c9, 0 6px 0 #bbb, 0 8px 0 #b9b9b9,
+    0 5px 0 #aaa, 0 2px 1px rgba(0, 0, 0, 0.1), 0 0 7px rgba(0, 0, 0, 0.1),
+    0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(51, 16, 16, 0.2),
+    0 10px 10px rgba(78, 63, 63, 0.25), 0 10px 10px rgba(126, 2, 2, 0.2),
+    0 20px 20px rgba(39, 37, 37, 0.15);
+}
